@@ -108,4 +108,4 @@ def solver(n):
     plot.show()
 
 
-solver(10)
+solver(3)
